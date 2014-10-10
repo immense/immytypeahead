@@ -1,6 +1,6 @@
 {
   "name": "immytypeahead",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "licenses": [
     { "type": "MIT", "url": "http://www.opensource.org/licenses/mit-license.php" }
