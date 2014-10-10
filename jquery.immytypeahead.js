@@ -36,6 +36,7 @@
         self = this;
         this.element = $(element);
         this.element.addClass(pluginName);
+        this.element.attr("autocomplete", "off");
         this._defaults = defaults;
         this._name = pluginName;
         this.options = $.extend({}, defaults, options);
